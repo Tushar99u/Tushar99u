@@ -1,5 +1,7 @@
 # 💫 About Me:
-- Currently working with full stack technologies - HTML,CSS,Javascript,React,Node.js<br>- Proficient in DSA<br>- Open to work
+- Currently working with full stack technologies - HTML,CSS,Javascript,React,Node.js<br>
+- Proficient in DSA<br>
+- Open to work<br>
 
 
 ## 🌐 Socials:
