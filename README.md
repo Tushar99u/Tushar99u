@@ -1,4 +1,4 @@
-# 💫 I am Tushar Taneja:
+# 💫 I am Tushar Taneja: (My old account with application is showing error, so I am uploading projects on this account)
 - Currently working with full stack technologies - HTML,CSS,Javascript,React,Node.js<br>
 - Proficient in DSA<br>
 - Open to work<br>
